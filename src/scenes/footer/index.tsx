@@ -67,8 +67,8 @@ const Footer = () => {
                 📞
               </div>
               <div>
-                
-                <p className="text-lg text-white"> <span className="font-medium text-orange-500">Phone: </span> 098320 90776</p>
+                 
+                <p className="text-lg text-white"> <span className="font-medium text-orange-500">Phone: </span> 087249 97546</p>
               </div>
             </li>
             <li className="flex items-start gap-4">
@@ -77,8 +77,8 @@ const Footer = () => {
               </div>
               <div>
                 
-                <a href="mailto:support@afs.com" className="text-lg text-white hover:text-orange-400 transition-colors"> <span className="font-medium text-orange-500">Email: </span>
-                support@afs.com
+                <a href="mailto:gymaholic.info@gmail.com" className="text-lg text-white hover:text-orange-400 transition-colors"> <span className="font-medium text-orange-500">Email: </span>
+                gymaholic.info@gmail.com
                 </a>
               </div>
             </li>
@@ -89,7 +89,7 @@ const Footer = () => {
               <div>
                 
                 <p className="text-lg text-white leading-relaxed"> <span className="font-medium text-orange-500">Address: </span>
-                S.F Road, Anandaloke Cinema Hall Compound, Siliguri, India
+                Gogoi Towers, above Federal bank, Silphukuri, Guwahati, Assam 781003
                 </p>
               </div>
             </li>
@@ -98,10 +98,10 @@ const Footer = () => {
 
             
 
-           
+            
            
               <iframe 
-                src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3564.26176946756!2d88.42138187543227!3d26.70408307677221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e4410ca28e5b1b%3A0x954f60f3a9a183aa!2sAnandaloke%20Fitness%20Studio%20%7C%20Best%20Fitness%20Center%20in%20Siliguri%20%7C%20Best%20Gym%20in%20Siliguri!5e0!3m2!1sen!2sin!4v1740970828337!5m2!1sen!2sin"
+                src= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.3641133030787!2d91.75602137541456!3d26.184831177088572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375a5988acee3a9b%3A0xf812eb657b690ed9!2sGogoi%20Towers%2C%20%5Bno%20namManiram%20Dewan%20Rd%2C%20GNB%20Rde%5D%2C%20Opposite%20Guwahati%20Club%2C%20Silphukuri%2C%20Guwahati%2C%20Assam%20781003!5e0!3m2!1sen!2sin!4v1741328741778!5m2!1sen!2sin"
                 className="w-full h-48 rounded-xl border-2 border-gray-700 shadow-lg hover:shadow-xl transition-shadow"
                 allowFullScreen
                 loading="lazy"
@@ -115,7 +115,7 @@ const Footer = () => {
       <div className="w-full max-w-7xl border-t border-gray-800"></div>
       
       <p className="text-center text-white text-sm">
-      Copyright © 2025 AFS Gym Fitness Gym - All Rights Reserved | A AFS Gym® Company!. Crafted with ❤️ in India
+      Copyright © 2025 Gymaholic Guwahati - All Rights Reserved | A Gymaholic Guwahati Gym® Company!. Crafted with ❤️ in India
       </p>
     </div>
     </>

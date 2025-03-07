@@ -23,8 +23,8 @@ export default function FindUs() {
                 <FaPhoneAlt className="text-primary-500 text-2xl" />
                 <div>
                   <p className="text-[#5d0000] font-bold text-lg">
-                    <a href="tel:098320 90776">
-                    098320 90776</a>
+                    <a href="tel:087249 97546">
+                    087249 97546</a>
                   </p>
                   <p className="text-black">Call us: Mon - Fri 9:00 AM - 6:00 PM</p>
                 </div>
@@ -34,10 +34,10 @@ export default function FindUs() {
               <div className="flex items-center space-x-3">
                 <FaMapMarkerAlt className="text-primary-500 text-2xl" />
                 <div>
-                  <p className="text-lg font-bold text-[#5d0000]">A.F.S Anandaloke Fitness Studio </p>
+                  <p className="text-lg font-bold text-[#5d0000]">Gymaholic Guwahati </p>
                   <p className="text-black">
                   
-S.F Road, Anandaloke Cinema Hall Compound, Siliguri, India,
+                  Gogoi Towers, above Federal bank, Silphukuri, Guwahati, Assam 781003
                   </p>
                 </div>
               </div>
@@ -47,7 +47,7 @@ S.F Road, Anandaloke Cinema Hall Compound, Siliguri, India,
                 <FaEnvelope className="text-primary-500 text-2xl" />
                 <div>
                   <p className="text-lg font-bold text-[#5d0000]">
-                    <a href="mailto:support@afscom">support@afscom</a>
+                    <a href="mailto:gymaholic.info@gmail.com">gymaholic.info@gmail.com</a>
                   </p>
                   <p className="text-black">Drop us a line anytime!</p>
                 </div>
@@ -55,8 +55,8 @@ S.F Road, Anandaloke Cinema Hall Compound, Siliguri, India,
 
               {/* Social Icons */}
               <div className="flex space-x-4 mt-4 text-gray-500 text-2xl">
-                <a href="https://www.instagram.com/anandalokefitnes/" className="hover:text-[#2f2484]"><FaInstagram /></a>
-                <a href="https://www.facebook.com/p/AFS-Anandaloke-Fitness-Studio-100057120353120/" className="hover:text-[#2f2484]"><FaFacebook /></a>
+                <a href="https://www.instagram.com/gymaholicguwahati/?hl=en" className="hover:text-[#2f2484]"><FaInstagram /></a>
+                <a href="https://www.facebook.com/gymaholicguwahati//" className="hover:text-[#2f2484]"><FaFacebook /></a>
                 {/* <a href="https://www.linkedin.com/company/vajjiram" className="hover:text-[#2f2484]"><FaLinkedin /></a> */}
               </div>
             </div>

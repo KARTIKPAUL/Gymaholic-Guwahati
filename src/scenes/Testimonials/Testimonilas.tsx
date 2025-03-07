@@ -11,7 +11,7 @@ const testimonials = [
   },
   {
     name: "Lakshya Rajak",
-    feedback: "AFS Gym is truly exceptional! The moment you step inside, you're greeted with a clean, well-organized space and an inviting ambience that instantly boosts your motivation. The modern equipment is well-maintained, and there's plenty of space for all types of workouts, whether you're lifting, doing cardio, or engaging in functional training.",
+    feedback: "Gymaholic Guwahatiis truly exceptional! The moment you step inside, you're greeted with a clean, well-organized space and an inviting ambience that instantly boosts your motivation. The modern equipment is well-maintained, and there's plenty of space for all types of workouts, whether you're lifting, doing cardio, or engaging in functional training.",
     image: "https://images.pexels.com/photos/4475024/pexels-photo-4475024.jpeg?auto=compress&cs=tinysrgb&w=600",
     rating: 4,
   },

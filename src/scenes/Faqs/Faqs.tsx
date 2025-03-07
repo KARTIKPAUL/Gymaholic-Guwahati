@@ -14,8 +14,8 @@ const Faqs: React.FC = () => {
       answer: "Our gym is open from 5:00 AM to 10:00 PM, Monday to Saturday. We are closed on Sundays.",
     },
     {
-      question: "Where is AFS Gym Gym located?",
-      answer: "We are located at  S.F Road, Anandaloke Cinema Hall Compound, Siliguri, India",
+      question: "Where is Gymaholic Guwahati Gym located?",
+      answer: "We are located at Gogoi Towers, above Federal bank, Silphukuri, Guwahati, Assam 781003",
     },
     {
       question: "Do you offer a free trial?",

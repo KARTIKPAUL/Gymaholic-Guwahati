@@ -13,10 +13,10 @@ const AboutUs = () => {
             transition={{ duration: 1 }}
           >
             <h1 className="text-4xl md:text-5xl font-bold mb-6 text-yellow-400 drop-shadow-lg">
-              About AFS Gym Fitness Gym
+              About Gymaholic Guwahati Fitness Gym
             </h1>
             <p className="text-lg mb-8 max-w-2xl mx-auto text-gray-300">
-              Welcome to AFS Gym Fitness Gym – The Premier Fitness Destination in Siliguri! We offer a 
+              Welcome to Gymaholic Guwahat Fitness Gym – The Premier Fitness Destination in Siliguri! We offer a 
               fully air-conditioned, comfortable environment for all. Join our community and achieve 
               your fitness goals with us!
             </p>
@@ -67,9 +67,9 @@ const AboutUs = () => {
           >
             <h2 className="text-3xl font-bold mb-6 text-yellow-400">Find Us</h2>
             <div className="space-y-4 text-lg text-gray-300">
-              <p><MapPin className="inline mr-2" /> S.F Road, Anandaloke Cinema Hall Compound, Siliguri, India</p>
-              <p><Phone className="inline mr-2" /> 098320 90776</p>
-              <p><Mail className="inline mr-2" />  support@afs.com</p>
+              <p><MapPin className="inline mr-2" /> Gogoi Towers, above Federal bank, Silphukuri, Guwahati, Assam 781003</p>
+              <p><Phone className="inline mr-2" /> 087249 975466</p>
+              <p><Mail className="inline mr-2" /> gymaholic.info@gmail.com</p>
             </div>
           </motion.div>
 

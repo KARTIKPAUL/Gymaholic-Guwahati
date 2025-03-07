@@ -10,12 +10,12 @@ const TermsConditions = () => {
         <div className=" min-h-screen p-6">
         <PageHeader title="Terms & Conditions" path="terms-conditions" name="Terms & Conditions"/>
       <div className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg p-6">
-        <h1 className="text-3xl font-bold mb-4">Terms and Conditions for AFS Gym</h1>
+        <h1 className="text-3xl font-bold mb-4">Terms and Conditions for Gymaholic Guwahati</h1>
         <p className="text-gray-700">Effective Date: 25/02/2025</p>
         
         <section className="mt-4">
           <h2 className="text-xl font-semibold">1. Introduction</h2>
-          <p className="text-gray-700">Welcome to AFS Gym. By accessing or using our services, you agree to comply with and be bound by these Terms and Conditions.</p>
+          <p className="text-gray-700">Welcome to Gymaholic Guwahati. By accessing or using our services, you agree to comply with and be bound by these Terms and Conditions.</p>
         </section>
         
         <section className="mt-4">
@@ -30,7 +30,7 @@ const TermsConditions = () => {
         
         <section className="mt-4">
           <h2 className="text-xl font-semibold">4. Liability and Waiver</h2>
-          <p className="text-gray-700">AFS Gym Gym is not responsible for injuries, lost items, or accidents that occur within the premises.</p>
+          <p className="text-gray-700">Gymaholic Guwahati is not responsible for injuries, lost items, or accidents that occur within the premises.</p>
         </section>
         
         <section className="mt-4">
@@ -41,10 +41,10 @@ const TermsConditions = () => {
         <section className="mt-4">
           <h2 className="text-xl font-semibold">6. Contact Us</h2>
           <p className="text-gray-700">For any questions, please contact us at:</p>
-          <p className="text-gray-700 font-semibold">AFS Gym</p>
-          <p className="text-gray-700">S.F Road, Anandaloke Cinema Hall Compound, Siliguri, India</p>
-          <p className="text-gray-700">Email: <strong>support@afs.com</strong></p>
-          <p className="text-gray-700">Phone: <strong> 098320 90776</strong></p>
+          <p className="text-gray-700 font-semibold">Gymaholic Guwahati</p>
+          <p className="text-gray-700">Gogoi Towers, above Federal bank, Silphukuri, Guwahati, Assam 781003a</p>
+          <p className="text-gray-700">Email: <strong>gymaholic.info@gmail.com</strong></p>
+          <p className="text-gray-700">Phone: <strong> 087249 97546</strong></p>
         </section>
         <Link to="/" className="text-primary-500 underline mt-4 inline-block">
           Back to Home
